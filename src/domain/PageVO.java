@@ -16,5 +16,5 @@ public class PageVO {
 	private int page;
 	private int startPage;
 	private int endPage;
-	private int totalPage;
+	
 }
